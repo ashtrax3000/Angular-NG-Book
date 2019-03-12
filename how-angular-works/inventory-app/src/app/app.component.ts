@@ -1,6 +1,5 @@
 import {
-  Component,
-  EventEmitter
+  Component
 } from '@angular/core';
 
 import { Product } from './product.model';
